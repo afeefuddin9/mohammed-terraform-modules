@@ -1,0 +1,17 @@
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Effect": "Allow",
+			"Action": [
+				"dynamodb:PutItem",
+				"dynamodb:GetItem",
+				"dynamodb:UpdateItem",
+				"dynamodb:DeleteItem",
+				"dynamodb:Scan",
+				"dynamodb:Query"
+			],
+			"Resource": "arn:aws:dynamodb:us-east-1:768502287836:table/test-audio-localization-role-s43tln6k"
+		}
+	]
+}
