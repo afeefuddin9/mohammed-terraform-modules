@@ -1,0 +1,51 @@
+1. Move/Change VPC of "DXPlatformPortal-Staging" and all resources from "default vpc" to "dxpf-loganalysis-pro"
+
+2. End point creation for "dxpf-loganalysis-pro" vpc and take care of SG to add inbound rule for accessing the endpoint via the SG or whatever
+
+
+
+
+Hi Team,
+ 
+As per the Confirmation from Nakajima-San, we will be planning to perform OS level remediation activity (DXPF-1585) for the Dx-Portal staging 
+environment on 30-07-2024(Tuesday) starting from 11:30 AM IST.
+We will inform you once it's completed on our side, so you can test and confirm the functionality.
+
+OS Remediation
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ envPrefix               = local.envPrefix
+ environment_type        = local.Environment
+ azs                     = "ap-southeast-1a,ap-southeast-1b"
+ region                  = local.region
+ cidr                    = "10.19.0.0/23"
+ lb_subnet_a_cidr        = "10.19.0.64/27"
+ lb_subnet_b_cidr        = "10.19.0.128/27"
+ db_subnet_a_cidr        = "10.19.0.192/26"
+ db_subnet_b_cidr        = "10.19.1.0/26"
+ web_subnet_a_cidr       = "10.19.1.64/26"
+ web_subnet_b_cidr       = "10.19.1.192/26"
+ default_tags            = local.default_tags
+
+
+
+ 

@@ -1,0 +1,2067 @@
+[0m[1mdata.aws_vpcs.all_vpcs: Reading...[0m[0m
+[0m[1mdata.aws_vpcs.all_vpcs: Read complete after 2s [id=us-west-2][0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-021ddb54db13428b2"]: Reading...[0m[0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-0729e0862e6c07fa3"]: Reading...[0m[0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-041a1132552c39c34"]: Reading...[0m[0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-08c176c702b4e8c82"]: Reading...[0m[0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-0ea0ec53556654812"]: Reading...[0m[0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-b6835ece"]: Reading...[0m[0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-01264de7c037cbbe4"]: Reading...[0m[0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-0f8d49fece7838519"]: Reading...[0m[0m
+[0m[1maws_route_table.private["vpc-b6835ece"]: Refreshing state... [id=rtb-000bef62e0992738a][0m
+[0m[1maws_route_table.private["vpc-041a1132552c39c34"]: Refreshing state... [id=rtb-00371bb969ba07e2a][0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-041a1132552c39c34"]: Read complete after 0s [id=us-west-2][0m
+[0m[1maws_route_table.private["vpc-08c176c702b4e8c82"]: Refreshing state... [id=rtb-00f92eed01a44fe5e][0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-021ddb54db13428b2"]: Read complete after 0s [id=us-west-2][0m
+[0m[1maws_route_table.private["vpc-01264de7c037cbbe4"]: Refreshing state... [id=rtb-045b682eb989139ed][0m
+[0m[1maws_route_table.private["vpc-0f8d49fece7838519"]: Refreshing state... [id=rtb-0593d10164e952ac1][0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-0729e0862e6c07fa3"]: Read complete after 1s [id=us-west-2][0m
+[0m[1maws_route_table.private["vpc-0729e0862e6c07fa3"]: Refreshing state... [id=rtb-0d70d1d9aa3d1e467][0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-b6835ece"]: Read complete after 1s [id=us-west-2][0m
+[0m[1maws_route_table.private["vpc-021ddb54db13428b2"]: Refreshing state... [id=rtb-0b630a7cc78a24ee9][0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-08c176c702b4e8c82"]: Read complete after 1s [id=us-west-2][0m
+[0m[1maws_route_table.private["vpc-0ea0ec53556654812"]: Refreshing state... [id=rtb-03474a0d98ea1acea][0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-0ea0ec53556654812"]: Read complete after 1s [id=us-west-2][0m
+[0m[1mdata.aws_vpc.selected["vpc-041a1132552c39c34"]: Reading...[0m[0m
+[0m[1mdata.aws_vpc.selected["vpc-0ea0ec53556654812"]: Reading...[0m[0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-01264de7c037cbbe4"]: Read complete after 1s [id=us-west-2][0m
+[0m[1mdata.aws_vpc.selected["vpc-021ddb54db13428b2"]: Reading...[0m[0m
+[0m[1mdata.aws_vpc.selected["vpc-01264de7c037cbbe4"]: Reading...[0m[0m
+[0m[1mdata.aws_vpc.selected["vpc-0f8d49fece7838519"]: Reading...[0m[0m
+[0m[1mdata.aws_vpc.selected["vpc-08c176c702b4e8c82"]: Reading...[0m[0m
+[0m[1mdata.aws_vpc.selected["vpc-0729e0862e6c07fa3"]: Reading...[0m[0m
+[0m[1mdata.aws_subnets.private_subnets["vpc-0f8d49fece7838519"]: Read complete after 1s [id=us-west-2][0m
+[0m[1mdata.aws_vpc.selected["vpc-b6835ece"]: Reading...[0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-0729e0862e6c07fa3"]: Refreshing state... [id=vpce-09c198976b83a421f][0m
+[0m[1maws_vpc_endpoint.s3["vpc-01264de7c037cbbe4"]: Refreshing state... [id=vpce-0330bba842b6a8ac3][0m
+[0m[1maws_vpc_endpoint.s3["vpc-0f8d49fece7838519"]: Refreshing state... [id=vpce-052dd5e5c8f598a4f][0m
+[0m[1maws_vpc_endpoint.s3["vpc-b6835ece"]: Refreshing state... [id=vpce-0319b104115bbb615][0m
+[0m[1maws_vpc_endpoint.s3["vpc-08c176c702b4e8c82"]: Refreshing state... [id=vpce-0086a47ffcac5cc4b][0m
+[0m[1maws_vpc_endpoint.s3["vpc-0ea0ec53556654812"]: Refreshing state... [id=vpce-032311f8cc975f4b4][0m
+[0m[1mdata.aws_vpc.selected["vpc-0729e0862e6c07fa3"]: Read complete after 2s [id=vpc-0729e0862e6c07fa3][0m
+[0m[1maws_vpc_endpoint.s3["vpc-021ddb54db13428b2"]: Refreshing state... [id=vpce-001716144c8acf8e4][0m
+[0m[1mdata.aws_vpc.selected["vpc-021ddb54db13428b2"]: Read complete after 2s [id=vpc-021ddb54db13428b2][0m
+[0m[1maws_vpc_endpoint.s3["vpc-041a1132552c39c34"]: Refreshing state... [id=vpce-0ca15c0cb519557e4][0m
+[0m[1mdata.aws_vpc.selected["vpc-01264de7c037cbbe4"]: Read complete after 2s [id=vpc-01264de7c037cbbe4][0m
+[0m[1mdata.aws_vpc.selected["vpc-08c176c702b4e8c82"]: Read complete after 2s [id=vpc-08c176c702b4e8c82][0m
+[0m[1mdata.aws_vpc.selected["vpc-0f8d49fece7838519"]: Read complete after 2s [id=vpc-0f8d49fece7838519][0m
+[0m[1mdata.aws_vpc.selected["vpc-b6835ece"]: Read complete after 2s [id=vpc-b6835ece][0m
+[0m[1mdata.aws_vpc.selected["vpc-041a1132552c39c34"]: Read complete after 2s [id=vpc-041a1132552c39c34][0m
+[0m[1mdata.aws_vpc.selected["vpc-0ea0ec53556654812"]: Read complete after 2s [id=vpc-0ea0ec53556654812][0m
+[0m[1maws_security_group.endpoint["vpc-021ddb54db13428b2"]: Refreshing state... [id=sg-0fe21508d595bd306][0m
+[0m[1maws_security_group.endpoint["vpc-0f8d49fece7838519"]: Refreshing state... [id=sg-0d01d7b66365fc2ee][0m
+[0m[1maws_security_group.endpoint["vpc-b6835ece"]: Refreshing state... [id=sg-052f4f34d45c74d20][0m
+[0m[1maws_security_group.endpoint["vpc-01264de7c037cbbe4"]: Refreshing state... [id=sg-0eb161a973eec8aab][0m
+[0m[1maws_security_group.endpoint["vpc-08c176c702b4e8c82"]: Refreshing state... [id=sg-09702e23fd9abcb1c][0m
+[0m[1maws_security_group.endpoint["vpc-041a1132552c39c34"]: Refreshing state... [id=sg-0e5f2ef38beab0894][0m
+[0m[1maws_security_group.endpoint["vpc-0ea0ec53556654812"]: Refreshing state... [id=sg-0abee6d8091f1f738][0m
+[0m[1maws_security_group.endpoint["vpc-0729e0862e6c07fa3"]: Refreshing state... [id=sg-040bc932af53845e6][0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"]: Refreshing state... [id=vpce-03b59cc863fe31390][0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Refreshing state... [id=vpce-07081b57e5df45096][0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Refreshing state... [id=vpce-018102cb35f597690][0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"]: Refreshing state... [id=vpce-05fb64f84d441f7ec][0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Refreshing state... [id=vpce-06c7d6388dff49eb2][0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Refreshing state... [id=vpce-06cb176988b92425c][0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Refreshing state... [id=vpce-0573535bf107b0fe8][0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Refreshing state... [id=vpce-0f19fd62b918c8b64][0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Refreshing state... [id=vpce-0e64054f83991ff48][0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Refreshing state... [id=vpce-03010a8c0b9f96869][0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Refreshing state... [id=vpce-0603113cfea6a64f6][0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Refreshing state... [id=vpce-062f293e2180e88fa][0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"]: Refreshing state... [id=vpce-050a2e62c6785b4cf][0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Refreshing state... [id=vpce-0d153df0e1b55733b][0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"]: Refreshing state... [id=vpce-05f409839b96af404][0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Refreshing state... [id=vpce-0b43e1ff731c74182][0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Refreshing state... [id=vpce-039bcf2cf213f8244][0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Refreshing state... [id=vpce-0026a2f77908c7779][0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"]: Refreshing state... [id=vpce-09154873705dab3f6][0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"]: Refreshing state... [id=vpce-00dacd614cd89353c][0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Refreshing state... [id=vpce-0b132c9a7efd3c338][0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"]: Refreshing state... [id=vpce-0393b22535316bb11][0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Refreshing state... [id=vpce-0b88d7ea9eb6a3e7a][0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Refreshing state... [id=vpce-0293a56fbb3764d0a][0m
+
+Terraform used the selected providers to generate the following execution
+plan. Resource actions are indicated with the following symbols:
+  [31m-[0m destroy[0m
+
+Terraform will perform the following actions:
+
+[1m  # aws_route_table.private["vpc-01264de7c037cbbe4"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_route_table" "private" {
+      [31m-[0m[0m arn              = "arn:aws:ec2:us-west-2:768502287836:route-table/rtb-045b682eb989139ed" [90m-> null[0m[0m
+      [31m-[0m[0m id               = "rtb-045b682eb989139ed" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id         = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m propagating_vgws = [] [90m-> null[0m[0m
+      [31m-[0m[0m route            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags             = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all         = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id           = "vpc-01264de7c037cbbe4" [90m-> null[0m[0m
+    }
+
+[1m  # aws_route_table.private["vpc-021ddb54db13428b2"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_route_table" "private" {
+      [31m-[0m[0m arn              = "arn:aws:ec2:us-west-2:768502287836:route-table/rtb-0b630a7cc78a24ee9" [90m-> null[0m[0m
+      [31m-[0m[0m id               = "rtb-0b630a7cc78a24ee9" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id         = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m propagating_vgws = [] [90m-> null[0m[0m
+      [31m-[0m[0m route            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags             = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all         = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id           = "vpc-021ddb54db13428b2" [90m-> null[0m[0m
+    }
+
+[1m  # aws_route_table.private["vpc-041a1132552c39c34"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_route_table" "private" {
+      [31m-[0m[0m arn              = "arn:aws:ec2:us-west-2:768502287836:route-table/rtb-00371bb969ba07e2a" [90m-> null[0m[0m
+      [31m-[0m[0m id               = "rtb-00371bb969ba07e2a" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id         = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m propagating_vgws = [] [90m-> null[0m[0m
+      [31m-[0m[0m route            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags             = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all         = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id           = "vpc-041a1132552c39c34" [90m-> null[0m[0m
+    }
+
+[1m  # aws_route_table.private["vpc-0729e0862e6c07fa3"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_route_table" "private" {
+      [31m-[0m[0m arn              = "arn:aws:ec2:us-west-2:768502287836:route-table/rtb-0d70d1d9aa3d1e467" [90m-> null[0m[0m
+      [31m-[0m[0m id               = "rtb-0d70d1d9aa3d1e467" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id         = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m propagating_vgws = [] [90m-> null[0m[0m
+      [31m-[0m[0m route            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags             = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all         = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id           = "vpc-0729e0862e6c07fa3" [90m-> null[0m[0m
+    }
+
+[1m  # aws_route_table.private["vpc-08c176c702b4e8c82"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_route_table" "private" {
+      [31m-[0m[0m arn              = "arn:aws:ec2:us-west-2:768502287836:route-table/rtb-00f92eed01a44fe5e" [90m-> null[0m[0m
+      [31m-[0m[0m id               = "rtb-00f92eed01a44fe5e" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id         = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m propagating_vgws = [] [90m-> null[0m[0m
+      [31m-[0m[0m route            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags             = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all         = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id           = "vpc-08c176c702b4e8c82" [90m-> null[0m[0m
+    }
+
+[1m  # aws_route_table.private["vpc-0ea0ec53556654812"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_route_table" "private" {
+      [31m-[0m[0m arn              = "arn:aws:ec2:us-west-2:768502287836:route-table/rtb-03474a0d98ea1acea" [90m-> null[0m[0m
+      [31m-[0m[0m id               = "rtb-03474a0d98ea1acea" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id         = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m propagating_vgws = [] [90m-> null[0m[0m
+      [31m-[0m[0m route            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags             = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all         = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id           = "vpc-0ea0ec53556654812" [90m-> null[0m[0m
+    }
+
+[1m  # aws_route_table.private["vpc-0f8d49fece7838519"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_route_table" "private" {
+      [31m-[0m[0m arn              = "arn:aws:ec2:us-west-2:768502287836:route-table/rtb-0593d10164e952ac1" [90m-> null[0m[0m
+      [31m-[0m[0m id               = "rtb-0593d10164e952ac1" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id         = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m propagating_vgws = [] [90m-> null[0m[0m
+      [31m-[0m[0m route            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags             = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all         = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id           = "vpc-0f8d49fece7838519" [90m-> null[0m[0m
+    }
+
+[1m  # aws_route_table.private["vpc-b6835ece"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_route_table" "private" {
+      [31m-[0m[0m arn              = "arn:aws:ec2:us-west-2:768502287836:route-table/rtb-000bef62e0992738a" [90m-> null[0m[0m
+      [31m-[0m[0m id               = "rtb-000bef62e0992738a" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id         = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m propagating_vgws = [] [90m-> null[0m[0m
+      [31m-[0m[0m route            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags             = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all         = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id           = "vpc-b6835ece" [90m-> null[0m[0m
+    }
+
+[1m  # aws_security_group.endpoint["vpc-01264de7c037cbbe4"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_security_group" "endpoint" {
+      [31m-[0m[0m arn                    = "arn:aws:ec2:us-west-2:768502287836:security-group/sg-0eb161a973eec8aab" [90m-> null[0m[0m
+      [31m-[0m[0m description            = "Allow access to VPC endpoints" [90m-> null[0m[0m
+      [31m-[0m[0m egress                 = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                     = "sg-0eb161a973eec8aab" [90m-> null[0m[0m
+      [31m-[0m[0m ingress                = [
+          [31m-[0m[0m {
+              [31m-[0m[0m cidr_blocks      = [
+                  [31m-[0m[0m "10.0.0.0/16",
+                ]
+              [31m-[0m[0m description      = ""
+              [31m-[0m[0m from_port        = 443
+              [31m-[0m[0m ipv6_cidr_blocks = []
+              [31m-[0m[0m prefix_list_ids  = []
+              [31m-[0m[0m protocol         = "tcp"
+              [31m-[0m[0m security_groups  = []
+              [31m-[0m[0m self             = false
+              [31m-[0m[0m to_port          = 443
+            },
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m name                   = "allow-endpoint-access" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id               = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m revoke_rules_on_delete = false [90m-> null[0m[0m
+      [31m-[0m[0m tags                   = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all               = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                 = "vpc-01264de7c037cbbe4" [90m-> null[0m[0m
+    }
+
+[1m  # aws_security_group.endpoint["vpc-021ddb54db13428b2"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_security_group" "endpoint" {
+      [31m-[0m[0m arn                    = "arn:aws:ec2:us-west-2:768502287836:security-group/sg-0fe21508d595bd306" [90m-> null[0m[0m
+      [31m-[0m[0m description            = "Allow access to VPC endpoints" [90m-> null[0m[0m
+      [31m-[0m[0m egress                 = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                     = "sg-0fe21508d595bd306" [90m-> null[0m[0m
+      [31m-[0m[0m ingress                = [
+          [31m-[0m[0m {
+              [31m-[0m[0m cidr_blocks      = [
+                  [31m-[0m[0m "192.168.0.0/16",
+                ]
+              [31m-[0m[0m description      = ""
+              [31m-[0m[0m from_port        = 443
+              [31m-[0m[0m ipv6_cidr_blocks = []
+              [31m-[0m[0m prefix_list_ids  = []
+              [31m-[0m[0m protocol         = "tcp"
+              [31m-[0m[0m security_groups  = []
+              [31m-[0m[0m self             = false
+              [31m-[0m[0m to_port          = 443
+            },
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m name                   = "allow-endpoint-access" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id               = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m revoke_rules_on_delete = false [90m-> null[0m[0m
+      [31m-[0m[0m tags                   = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all               = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                 = "vpc-021ddb54db13428b2" [90m-> null[0m[0m
+    }
+
+[1m  # aws_security_group.endpoint["vpc-041a1132552c39c34"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_security_group" "endpoint" {
+      [31m-[0m[0m arn                    = "arn:aws:ec2:us-west-2:768502287836:security-group/sg-0e5f2ef38beab0894" [90m-> null[0m[0m
+      [31m-[0m[0m description            = "Allow access to VPC endpoints" [90m-> null[0m[0m
+      [31m-[0m[0m egress                 = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                     = "sg-0e5f2ef38beab0894" [90m-> null[0m[0m
+      [31m-[0m[0m ingress                = [
+          [31m-[0m[0m {
+              [31m-[0m[0m cidr_blocks      = [
+                  [31m-[0m[0m "10.27.0.0/23",
+                ]
+              [31m-[0m[0m description      = ""
+              [31m-[0m[0m from_port        = 443
+              [31m-[0m[0m ipv6_cidr_blocks = []
+              [31m-[0m[0m prefix_list_ids  = []
+              [31m-[0m[0m protocol         = "tcp"
+              [31m-[0m[0m security_groups  = []
+              [31m-[0m[0m self             = false
+              [31m-[0m[0m to_port          = 443
+            },
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m name                   = "allow-endpoint-access" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id               = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m revoke_rules_on_delete = false [90m-> null[0m[0m
+      [31m-[0m[0m tags                   = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all               = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                 = "vpc-041a1132552c39c34" [90m-> null[0m[0m
+    }
+
+[1m  # aws_security_group.endpoint["vpc-0729e0862e6c07fa3"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_security_group" "endpoint" {
+      [31m-[0m[0m arn                    = "arn:aws:ec2:us-west-2:768502287836:security-group/sg-040bc932af53845e6" [90m-> null[0m[0m
+      [31m-[0m[0m description            = "Allow access to VPC endpoints" [90m-> null[0m[0m
+      [31m-[0m[0m egress                 = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                     = "sg-040bc932af53845e6" [90m-> null[0m[0m
+      [31m-[0m[0m ingress                = [
+          [31m-[0m[0m {
+              [31m-[0m[0m cidr_blocks      = [
+                  [31m-[0m[0m "10.23.0.0/23",
+                ]
+              [31m-[0m[0m description      = ""
+              [31m-[0m[0m from_port        = 443
+              [31m-[0m[0m ipv6_cidr_blocks = []
+              [31m-[0m[0m prefix_list_ids  = []
+              [31m-[0m[0m protocol         = "tcp"
+              [31m-[0m[0m security_groups  = []
+              [31m-[0m[0m self             = false
+              [31m-[0m[0m to_port          = 443
+            },
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m name                   = "allow-endpoint-access" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id               = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m revoke_rules_on_delete = false [90m-> null[0m[0m
+      [31m-[0m[0m tags                   = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all               = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                 = "vpc-0729e0862e6c07fa3" [90m-> null[0m[0m
+    }
+
+[1m  # aws_security_group.endpoint["vpc-08c176c702b4e8c82"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_security_group" "endpoint" {
+      [31m-[0m[0m arn                    = "arn:aws:ec2:us-west-2:768502287836:security-group/sg-09702e23fd9abcb1c" [90m-> null[0m[0m
+      [31m-[0m[0m description            = "Allow access to VPC endpoints" [90m-> null[0m[0m
+      [31m-[0m[0m egress                 = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                     = "sg-09702e23fd9abcb1c" [90m-> null[0m[0m
+      [31m-[0m[0m ingress                = [
+          [31m-[0m[0m {
+              [31m-[0m[0m cidr_blocks      = [
+                  [31m-[0m[0m "172.16.0.0/16",
+                ]
+              [31m-[0m[0m description      = ""
+              [31m-[0m[0m from_port        = 443
+              [31m-[0m[0m ipv6_cidr_blocks = []
+              [31m-[0m[0m prefix_list_ids  = []
+              [31m-[0m[0m protocol         = "tcp"
+              [31m-[0m[0m security_groups  = []
+              [31m-[0m[0m self             = false
+              [31m-[0m[0m to_port          = 443
+            },
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m name                   = "allow-endpoint-access" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id               = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m revoke_rules_on_delete = false [90m-> null[0m[0m
+      [31m-[0m[0m tags                   = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all               = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                 = "vpc-08c176c702b4e8c82" [90m-> null[0m[0m
+    }
+
+[1m  # aws_security_group.endpoint["vpc-0ea0ec53556654812"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_security_group" "endpoint" {
+      [31m-[0m[0m arn                    = "arn:aws:ec2:us-west-2:768502287836:security-group/sg-0abee6d8091f1f738" [90m-> null[0m[0m
+      [31m-[0m[0m description            = "Allow access to VPC endpoints" [90m-> null[0m[0m
+      [31m-[0m[0m egress                 = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                     = "sg-0abee6d8091f1f738" [90m-> null[0m[0m
+      [31m-[0m[0m ingress                = [
+          [31m-[0m[0m {
+              [31m-[0m[0m cidr_blocks      = [
+                  [31m-[0m[0m "10.38.0.0/16",
+                ]
+              [31m-[0m[0m description      = ""
+              [31m-[0m[0m from_port        = 443
+              [31m-[0m[0m ipv6_cidr_blocks = []
+              [31m-[0m[0m prefix_list_ids  = []
+              [31m-[0m[0m protocol         = "tcp"
+              [31m-[0m[0m security_groups  = []
+              [31m-[0m[0m self             = false
+              [31m-[0m[0m to_port          = 443
+            },
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m name                   = "allow-endpoint-access" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id               = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m revoke_rules_on_delete = false [90m-> null[0m[0m
+      [31m-[0m[0m tags                   = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all               = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                 = "vpc-0ea0ec53556654812" [90m-> null[0m[0m
+    }
+
+[1m  # aws_security_group.endpoint["vpc-0f8d49fece7838519"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_security_group" "endpoint" {
+      [31m-[0m[0m arn                    = "arn:aws:ec2:us-west-2:768502287836:security-group/sg-0d01d7b66365fc2ee" [90m-> null[0m[0m
+      [31m-[0m[0m description            = "Allow access to VPC endpoints" [90m-> null[0m[0m
+      [31m-[0m[0m egress                 = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                     = "sg-0d01d7b66365fc2ee" [90m-> null[0m[0m
+      [31m-[0m[0m ingress                = [
+          [31m-[0m[0m {
+              [31m-[0m[0m cidr_blocks      = [
+                  [31m-[0m[0m "10.9.0.0/16",
+                ]
+              [31m-[0m[0m description      = ""
+              [31m-[0m[0m from_port        = 443
+              [31m-[0m[0m ipv6_cidr_blocks = []
+              [31m-[0m[0m prefix_list_ids  = []
+              [31m-[0m[0m protocol         = "tcp"
+              [31m-[0m[0m security_groups  = []
+              [31m-[0m[0m self             = false
+              [31m-[0m[0m to_port          = 443
+            },
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m name                   = "allow-endpoint-access" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id               = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m revoke_rules_on_delete = false [90m-> null[0m[0m
+      [31m-[0m[0m tags                   = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all               = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                 = "vpc-0f8d49fece7838519" [90m-> null[0m[0m
+    }
+
+[1m  # aws_security_group.endpoint["vpc-b6835ece"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_security_group" "endpoint" {
+      [31m-[0m[0m arn                    = "arn:aws:ec2:us-west-2:768502287836:security-group/sg-052f4f34d45c74d20" [90m-> null[0m[0m
+      [31m-[0m[0m description            = "Allow access to VPC endpoints" [90m-> null[0m[0m
+      [31m-[0m[0m egress                 = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                     = "sg-052f4f34d45c74d20" [90m-> null[0m[0m
+      [31m-[0m[0m ingress                = [
+          [31m-[0m[0m {
+              [31m-[0m[0m cidr_blocks      = [
+                  [31m-[0m[0m "172.31.0.0/16",
+                ]
+              [31m-[0m[0m description      = ""
+              [31m-[0m[0m from_port        = 443
+              [31m-[0m[0m ipv6_cidr_blocks = []
+              [31m-[0m[0m prefix_list_ids  = []
+              [31m-[0m[0m protocol         = "tcp"
+              [31m-[0m[0m security_groups  = []
+              [31m-[0m[0m self             = false
+              [31m-[0m[0m to_port          = 443
+            },
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m name                   = "allow-endpoint-access" [90m-> null[0m[0m
+      [31m-[0m[0m owner_id               = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m revoke_rules_on_delete = false [90m-> null[0m[0m
+      [31m-[0m[0m tags                   = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all               = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                 = "vpc-b6835ece" [90m-> null[0m[0m
+    }
+
+[1m  # aws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ec2" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0d153df0e1b55733b" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0d153df0e1b55733b" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0fe21508d595bd306",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ec2" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-021ddb54db13428b2" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ec2["vpc-041a1132552c39c34"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ec2" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0b43e1ff731c74182" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0b43e1ff731c74182" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0e5f2ef38beab0894",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ec2" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-041a1132552c39c34" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ec2" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-05f409839b96af404" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-05f409839b96af404" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-040bc932af53845e6",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ec2" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0729e0862e6c07fa3" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ec2" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0026a2f77908c7779" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0026a2f77908c7779" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0abee6d8091f1f738",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ec2" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0ea0ec53556654812" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ec2" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-050a2e62c6785b4cf" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-050a2e62c6785b4cf" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0d01d7b66365fc2ee",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ec2" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0f8d49fece7838519" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ec2["vpc-b6835ece"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ec2" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-039bcf2cf213f8244" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-039bcf2cf213f8244" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-052f4f34d45c74d20",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ec2" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-b6835ece" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_api" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0b88d7ea9eb6a3e7a" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0b88d7ea9eb6a3e7a" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0fe21508d595bd306",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.api" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-021ddb54db13428b2" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_api" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-09154873705dab3f6" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-09154873705dab3f6" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0e5f2ef38beab0894",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.api" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-041a1132552c39c34" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_api" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0b132c9a7efd3c338" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0b132c9a7efd3c338" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-040bc932af53845e6",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.api" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0729e0862e6c07fa3" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_api" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-00dacd614cd89353c" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-00dacd614cd89353c" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0abee6d8091f1f738",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.api" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0ea0ec53556654812" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_api" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0393b22535316bb11" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0393b22535316bb11" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0d01d7b66365fc2ee",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.api" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0f8d49fece7838519" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_api["vpc-b6835ece"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_api" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0293a56fbb3764d0a" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0293a56fbb3764d0a" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-052f4f34d45c74d20",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.api" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-b6835ece" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_dkr" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-07081b57e5df45096" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-07081b57e5df45096" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0fe21508d595bd306",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.dkr" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-021ddb54db13428b2" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_dkr" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-05fb64f84d441f7ec" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-05fb64f84d441f7ec" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0e5f2ef38beab0894",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.dkr" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-041a1132552c39c34" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_dkr" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-03b59cc863fe31390" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-03b59cc863fe31390" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-040bc932af53845e6",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.dkr" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0729e0862e6c07fa3" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_dkr" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-018102cb35f597690" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-018102cb35f597690" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0abee6d8091f1f738",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.dkr" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0ea0ec53556654812" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_dkr" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-06c7d6388dff49eb2" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-06c7d6388dff49eb2" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0d01d7b66365fc2ee",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.dkr" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0f8d49fece7838519" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.ecr_dkr["vpc-b6835ece"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "ecr_dkr" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-06cb176988b92425c" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-06cb176988b92425c" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-052f4f34d45c74d20",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.ecr.dkr" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-b6835ece" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "lambda" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0603113cfea6a64f6" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0603113cfea6a64f6" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0fe21508d595bd306",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.lambda" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-021ddb54db13428b2" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.lambda["vpc-041a1132552c39c34"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "lambda" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0e64054f83991ff48" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0e64054f83991ff48" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0e5f2ef38beab0894",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.lambda" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-041a1132552c39c34" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "lambda" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-03010a8c0b9f96869" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-03010a8c0b9f96869" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-040bc932af53845e6",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.lambda" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0729e0862e6c07fa3" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "lambda" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-062f293e2180e88fa" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-062f293e2180e88fa" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0abee6d8091f1f738",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.lambda" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0ea0ec53556654812" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "lambda" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0573535bf107b0fe8" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0573535bf107b0fe8" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-0d01d7b66365fc2ee",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.lambda" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0f8d49fece7838519" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.lambda["vpc-b6835ece"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "lambda" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0f19fd62b918c8b64" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0f19fd62b918c8b64" [90m-> null[0m[0m
+      [31m-[0m[0m ip_address_type       = "ipv4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = true [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [
+          [31m-[0m[0m "sg-052f4f34d45c74d20",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.lambda" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Interface" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-b6835ece" [90m-> null[0m[0m
+
+      [31m-[0m[0m dns_options {
+          [31m-[0m[0m dns_record_ip_type                             = "ipv4" [90m-> null[0m[0m
+          [31m-[0m[0m private_dns_only_for_inbound_resolver_endpoint = false [90m-> null[0m[0m
+        }
+    }
+
+[1m  # aws_vpc_endpoint.s3["vpc-01264de7c037cbbe4"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "s3" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0330bba842b6a8ac3" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [
+          [31m-[0m[0m "3.5.76.0/22",
+          [31m-[0m[0m "3.5.80.0/21",
+          [31m-[0m[0m "18.34.48.0/20",
+          [31m-[0m[0m "18.34.244.0/22",
+          [31m-[0m[0m "52.92.128.0/17",
+          [31m-[0m[0m "52.218.128.0/17",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0330bba842b6a8ac3" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+              [31m-[0m[0m Version   = "2008-10-17"
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m prefix_list_id        = "pl-68a54001" [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = false [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [
+          [31m-[0m[0m "rtb-045b682eb989139ed",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.s3" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Gateway" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-01264de7c037cbbe4" [90m-> null[0m[0m
+    }
+
+[1m  # aws_vpc_endpoint.s3["vpc-021ddb54db13428b2"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "s3" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-001716144c8acf8e4" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [
+          [31m-[0m[0m "3.5.76.0/22",
+          [31m-[0m[0m "3.5.80.0/21",
+          [31m-[0m[0m "18.34.48.0/20",
+          [31m-[0m[0m "18.34.244.0/22",
+          [31m-[0m[0m "52.92.128.0/17",
+          [31m-[0m[0m "52.218.128.0/17",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-001716144c8acf8e4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+              [31m-[0m[0m Version   = "2008-10-17"
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m prefix_list_id        = "pl-68a54001" [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = false [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [
+          [31m-[0m[0m "rtb-0b630a7cc78a24ee9",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.s3" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Gateway" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-021ddb54db13428b2" [90m-> null[0m[0m
+    }
+
+[1m  # aws_vpc_endpoint.s3["vpc-041a1132552c39c34"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "s3" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0ca15c0cb519557e4" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [
+          [31m-[0m[0m "3.5.76.0/22",
+          [31m-[0m[0m "3.5.80.0/21",
+          [31m-[0m[0m "18.34.48.0/20",
+          [31m-[0m[0m "18.34.244.0/22",
+          [31m-[0m[0m "52.92.128.0/17",
+          [31m-[0m[0m "52.218.128.0/17",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0ca15c0cb519557e4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+              [31m-[0m[0m Version   = "2008-10-17"
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m prefix_list_id        = "pl-68a54001" [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = false [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [
+          [31m-[0m[0m "rtb-00371bb969ba07e2a",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.s3" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Gateway" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-041a1132552c39c34" [90m-> null[0m[0m
+    }
+
+[1m  # aws_vpc_endpoint.s3["vpc-0729e0862e6c07fa3"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "s3" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-09c198976b83a421f" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [
+          [31m-[0m[0m "3.5.76.0/22",
+          [31m-[0m[0m "3.5.80.0/21",
+          [31m-[0m[0m "18.34.48.0/20",
+          [31m-[0m[0m "18.34.244.0/22",
+          [31m-[0m[0m "52.92.128.0/17",
+          [31m-[0m[0m "52.218.128.0/17",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-09c198976b83a421f" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+              [31m-[0m[0m Version   = "2008-10-17"
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m prefix_list_id        = "pl-68a54001" [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = false [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [
+          [31m-[0m[0m "rtb-0d70d1d9aa3d1e467",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.s3" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Gateway" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0729e0862e6c07fa3" [90m-> null[0m[0m
+    }
+
+[1m  # aws_vpc_endpoint.s3["vpc-08c176c702b4e8c82"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "s3" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0086a47ffcac5cc4b" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [
+          [31m-[0m[0m "3.5.76.0/22",
+          [31m-[0m[0m "3.5.80.0/21",
+          [31m-[0m[0m "18.34.48.0/20",
+          [31m-[0m[0m "18.34.244.0/22",
+          [31m-[0m[0m "52.92.128.0/17",
+          [31m-[0m[0m "52.218.128.0/17",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0086a47ffcac5cc4b" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+              [31m-[0m[0m Version   = "2008-10-17"
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m prefix_list_id        = "pl-68a54001" [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = false [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [
+          [31m-[0m[0m "rtb-00f92eed01a44fe5e",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.s3" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Gateway" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-08c176c702b4e8c82" [90m-> null[0m[0m
+    }
+
+[1m  # aws_vpc_endpoint.s3["vpc-0ea0ec53556654812"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "s3" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-032311f8cc975f4b4" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [
+          [31m-[0m[0m "3.5.76.0/22",
+          [31m-[0m[0m "3.5.80.0/21",
+          [31m-[0m[0m "18.34.48.0/20",
+          [31m-[0m[0m "18.34.244.0/22",
+          [31m-[0m[0m "52.92.128.0/17",
+          [31m-[0m[0m "52.218.128.0/17",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-032311f8cc975f4b4" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+              [31m-[0m[0m Version   = "2008-10-17"
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m prefix_list_id        = "pl-68a54001" [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = false [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [
+          [31m-[0m[0m "rtb-03474a0d98ea1acea",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.s3" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Gateway" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0ea0ec53556654812" [90m-> null[0m[0m
+    }
+
+[1m  # aws_vpc_endpoint.s3["vpc-0f8d49fece7838519"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "s3" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-052dd5e5c8f598a4f" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [
+          [31m-[0m[0m "3.5.76.0/22",
+          [31m-[0m[0m "3.5.80.0/21",
+          [31m-[0m[0m "18.34.48.0/20",
+          [31m-[0m[0m "18.34.244.0/22",
+          [31m-[0m[0m "52.92.128.0/17",
+          [31m-[0m[0m "52.218.128.0/17",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-052dd5e5c8f598a4f" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+              [31m-[0m[0m Version   = "2008-10-17"
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m prefix_list_id        = "pl-68a54001" [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = false [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [
+          [31m-[0m[0m "rtb-0593d10164e952ac1",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.s3" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Gateway" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-0f8d49fece7838519" [90m-> null[0m[0m
+    }
+
+[1m  # aws_vpc_endpoint.s3["vpc-b6835ece"][0m will be [1m[31mdestroyed[0m
+[0m  [31m-[0m[0m resource "aws_vpc_endpoint" "s3" {
+      [31m-[0m[0m arn                   = "arn:aws:ec2:us-west-2:768502287836:vpc-endpoint/vpce-0319b104115bbb615" [90m-> null[0m[0m
+      [31m-[0m[0m cidr_blocks           = [
+          [31m-[0m[0m "3.5.76.0/22",
+          [31m-[0m[0m "3.5.80.0/21",
+          [31m-[0m[0m "18.34.48.0/20",
+          [31m-[0m[0m "18.34.244.0/22",
+          [31m-[0m[0m "52.92.128.0/17",
+          [31m-[0m[0m "52.218.128.0/17",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m dns_entry             = [] [90m-> null[0m[0m
+      [31m-[0m[0m id                    = "vpce-0319b104115bbb615" [90m-> null[0m[0m
+      [31m-[0m[0m network_interface_ids = [] [90m-> null[0m[0m
+      [31m-[0m[0m owner_id              = "768502287836" [90m-> null[0m[0m
+      [31m-[0m[0m policy                = jsonencode(
+            {
+              [31m-[0m[0m Statement = [
+                  [31m-[0m[0m {
+                      [31m-[0m[0m Action    = "*"
+                      [31m-[0m[0m Effect    = "Allow"
+                      [31m-[0m[0m Principal = "*"
+                      [31m-[0m[0m Resource  = "*"
+                    },
+                ]
+              [31m-[0m[0m Version   = "2008-10-17"
+            }
+        ) [90m-> null[0m[0m
+      [31m-[0m[0m prefix_list_id        = "pl-68a54001" [90m-> null[0m[0m
+      [31m-[0m[0m private_dns_enabled   = false [90m-> null[0m[0m
+      [31m-[0m[0m requester_managed     = false [90m-> null[0m[0m
+      [31m-[0m[0m route_table_ids       = [
+          [31m-[0m[0m "rtb-000bef62e0992738a",
+        ] [90m-> null[0m[0m
+      [31m-[0m[0m security_group_ids    = [] [90m-> null[0m[0m
+      [31m-[0m[0m service_name          = "com.amazonaws.us-west-2.s3" [90m-> null[0m[0m
+      [31m-[0m[0m state                 = "available" [90m-> null[0m[0m
+      [31m-[0m[0m subnet_ids            = [] [90m-> null[0m[0m
+      [31m-[0m[0m tags                  = {} [90m-> null[0m[0m
+      [31m-[0m[0m tags_all              = {} [90m-> null[0m[0m
+      [31m-[0m[0m vpc_endpoint_type     = "Gateway" [90m-> null[0m[0m
+      [31m-[0m[0m vpc_id                = "vpc-b6835ece" [90m-> null[0m[0m
+    }
+
+[1mPlan:[0m 0 to add, 0 to change, 48 to destroy.
+[0m[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Destroying... [id=vpce-0f19fd62b918c8b64][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"]: Destroying... [id=vpce-09154873705dab3f6][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-0729e0862e6c07fa3"]: Destroying... [id=vpce-09c198976b83a421f][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-041a1132552c39c34"]: Destroying... [id=vpce-0ca15c0cb519557e4][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"]: Destroying... [id=vpce-0393b22535316bb11][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-021ddb54db13428b2"]: Destroying... [id=vpce-001716144c8acf8e4][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-b6835ece"]: Destroying... [id=vpce-0319b104115bbb615][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Destroying... [id=vpce-0603113cfea6a64f6][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"]: Destroying... [id=vpce-05fb64f84d441f7ec][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Destroying... [id=vpce-0b43e1ff731c74182][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-021ddb54db13428b2"]: Destruction complete after 7s[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Destroying... [id=vpce-0b132c9a7efd3c338][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-041a1132552c39c34"]: Destruction complete after 7s[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Destroying... [id=vpce-03010a8c0b9f96869][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-0729e0862e6c07fa3"]: Destruction complete after 7s[0m
+[0m[1maws_vpc_endpoint.s3["vpc-08c176c702b4e8c82"]: Destroying... [id=vpce-0086a47ffcac5cc4b][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-b6835ece"]: Destruction complete after 7s[0m
+[0m[1maws_vpc_endpoint.s3["vpc-0ea0ec53556654812"]: Destroying... [id=vpce-032311f8cc975f4b4][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Still destroying... [id=vpce-0f19fd62b918c8b64, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0393b22535316bb11, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-09154873705dab3f6, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-05fb64f84d441f7ec, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0b43e1ff731c74182, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0603113cfea6a64f6, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-08c176c702b4e8c82"]: Still destroying... [id=vpce-0086a47ffcac5cc4b, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-032311f8cc975f4b4, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0393b22535316bb11, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-09154873705dab3f6, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Still destroying... [id=vpce-0f19fd62b918c8b64, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0b43e1ff731c74182, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-05fb64f84d441f7ec, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0603113cfea6a64f6, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-08c176c702b4e8c82"]: Still destroying... [id=vpce-0086a47ffcac5cc4b, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-032311f8cc975f4b4, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-09154873705dab3f6, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0393b22535316bb11, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Still destroying... [id=vpce-0f19fd62b918c8b64, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0b43e1ff731c74182, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0603113cfea6a64f6, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-05fb64f84d441f7ec, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-08c176c702b4e8c82"]: Still destroying... [id=vpce-0086a47ffcac5cc4b, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-032311f8cc975f4b4, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0393b22535316bb11, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-09154873705dab3f6, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Still destroying... [id=vpce-0f19fd62b918c8b64, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0b43e1ff731c74182, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0603113cfea6a64f6, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-05fb64f84d441f7ec, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-08c176c702b4e8c82"]: Destruction complete after 34s[0m
+[0m[1maws_vpc_endpoint.s3["vpc-01264de7c037cbbe4"]: Destroying... [id=vpce-0330bba842b6a8ac3][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-0ea0ec53556654812"]: Destruction complete after 37s[0m
+[0m[1maws_vpc_endpoint.s3["vpc-0f8d49fece7838519"]: Destroying... [id=vpce-052dd5e5c8f598a4f][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-01264de7c037cbbe4"]: Destruction complete after 5s[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Destroying... [id=vpce-0d153df0e1b55733b][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.s3["vpc-0f8d49fece7838519"]: Destruction complete after 6s[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Destroying... [id=vpce-062f293e2180e88fa][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0393b22535316bb11, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-09154873705dab3f6, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Still destroying... [id=vpce-0f19fd62b918c8b64, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-05fb64f84d441f7ec, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0b43e1ff731c74182, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0603113cfea6a64f6, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0d153df0e1b55733b, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-062f293e2180e88fa, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-09154873705dab3f6, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Still destroying... [id=vpce-0f19fd62b918c8b64, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0393b22535316bb11, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0b43e1ff731c74182, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0603113cfea6a64f6, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-05fb64f84d441f7ec, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0d153df0e1b55733b, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-062f293e2180e88fa, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-09154873705dab3f6, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Still destroying... [id=vpce-0f19fd62b918c8b64, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0393b22535316bb11, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0603113cfea6a64f6, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0b43e1ff731c74182, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-05fb64f84d441f7ec, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-041a1132552c39c34"]: Destruction complete after 1m15s[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Destroying... [id=vpce-0293a56fbb3764d0a][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0f8d49fece7838519"]: Destruction complete after 1m15s[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Destroying... [id=vpce-018102cb35f597690][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-041a1132552c39c34"]: Destruction complete after 1m15s[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Destroying... [id=vpce-0b88d7ea9eb6a3e7a][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0d153df0e1b55733b, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-062f293e2180e88fa, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Still destroying... [id=vpce-0f19fd62b918c8b64, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0603113cfea6a64f6, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0b43e1ff731c74182, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Still destroying... [id=vpce-0293a56fbb3764d0a, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-018102cb35f597690, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0b88d7ea9eb6a3e7a, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0d153df0e1b55733b, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-062f293e2180e88fa, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Still destroying... [id=vpce-0f19fd62b918c8b64, 1m30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0603113cfea6a64f6, 1m30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0b43e1ff731c74182, 1m30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Still destroying... [id=vpce-0293a56fbb3764d0a, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-018102cb35f597690, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0b88d7ea9eb6a3e7a, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-041a1132552c39c34"]: Destruction complete after 1m36s[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Destroying... [id=vpce-0026a2f77908c7779][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-021ddb54db13428b2"]: Destruction complete after 1m36s[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Destroying... [id=vpce-07081b57e5df45096][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-b6835ece"]: Destruction complete after 1m36s[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Destroying... [id=vpce-06c7d6388dff49eb2][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0d153df0e1b55733b, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 1m30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 1m30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-062f293e2180e88fa, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Still destroying... [id=vpce-0293a56fbb3764d0a, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-018102cb35f597690, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0b88d7ea9eb6a3e7a, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-0026a2f77908c7779, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-07081b57e5df45096, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-06c7d6388dff49eb2, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0d153df0e1b55733b, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 1m40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 1m40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-062f293e2180e88fa, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Still destroying... [id=vpce-0293a56fbb3764d0a, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-018102cb35f597690, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0b88d7ea9eb6a3e7a, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-0026a2f77908c7779, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-07081b57e5df45096, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-06c7d6388dff49eb2, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0d153df0e1b55733b, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 1m50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 1m50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-062f293e2180e88fa, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Still destroying... [id=vpce-0293a56fbb3764d0a, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-018102cb35f597690, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0b88d7ea9eb6a3e7a, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-0026a2f77908c7779, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-07081b57e5df45096, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-06c7d6388dff49eb2, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0d153df0e1b55733b, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 2m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 2m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-062f293e2180e88fa, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Still destroying... [id=vpce-0293a56fbb3764d0a, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-018102cb35f597690, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0b88d7ea9eb6a3e7a, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-0026a2f77908c7779, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-07081b57e5df45096, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-06c7d6388dff49eb2, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0d153df0e1b55733b, 1m31s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 2m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 2m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-062f293e2180e88fa, 1m30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Still destroying... [id=vpce-0293a56fbb3764d0a, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-018102cb35f597690, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0b88d7ea9eb6a3e7a, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-0026a2f77908c7779, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-07081b57e5df45096, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-06c7d6388dff49eb2, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0d153df0e1b55733b, 1m41s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 2m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03010a8c0b9f96869, 2m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0729e0862e6c07fa3"]: Destruction complete after 2m23s[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"]: Destroying... [id=vpce-00dacd614cd89353c][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-062f293e2180e88fa, 1m40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-021ddb54db13428b2"]: Destruction complete after 1m44s[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"]: Destroying... [id=vpce-050a2e62c6785b4cf][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0ea0ec53556654812"]: Destruction complete after 1m44s[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Destroying... [id=vpce-06cb176988b92425c][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Still destroying... [id=vpce-0293a56fbb3764d0a, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-018102cb35f597690, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-0b88d7ea9eb6a3e7a, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-0026a2f77908c7779, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-07081b57e5df45096, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-06c7d6388dff49eb2, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-0b132c9a7efd3c338, 2m30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0729e0862e6c07fa3"]: Destruction complete after 2m30s[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Destroying... [id=vpce-039bcf2cf213f8244][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-b6835ece"]: Destruction complete after 1m23s[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Destroying... [id=vpce-0573535bf107b0fe8][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0ea0ec53556654812"]: Destruction complete after 1m24s[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"]: Destroying... [id=vpce-03b59cc863fe31390][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-021ddb54db13428b2"]: Destruction complete after 1m23s[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Destroying... [id=vpce-0e64054f83991ff48][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-00dacd614cd89353c, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-050a2e62c6785b4cf, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Still destroying... [id=vpce-06cb176988b92425c, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-0026a2f77908c7779, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-07081b57e5df45096, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-06c7d6388dff49eb2, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Still destroying... [id=vpce-039bcf2cf213f8244, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0573535bf107b0fe8, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03b59cc863fe31390, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0e64054f83991ff48, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-00dacd614cd89353c, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-050a2e62c6785b4cf, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Still destroying... [id=vpce-06cb176988b92425c, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-0026a2f77908c7779, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Still destroying... [id=vpce-07081b57e5df45096, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-06c7d6388dff49eb2, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Still destroying... [id=vpce-039bcf2cf213f8244, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0573535bf107b0fe8, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03b59cc863fe31390, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0e64054f83991ff48, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-021ddb54db13428b2"]: Destruction complete after 1m23s[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"]: Destroying... [id=vpce-05f409839b96af404][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0ea0ec53556654812"]: Destruction complete after 1m23s[0m
+[0m[1maws_route_table.private["vpc-0ea0ec53556654812"]: Destroying... [id=rtb-03474a0d98ea1acea][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0f8d49fece7838519"]: Destruction complete after 1m23s[0m
+[0m[1maws_route_table.private["vpc-0f8d49fece7838519"]: Destroying... [id=rtb-0593d10164e952ac1][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-00dacd614cd89353c, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-050a2e62c6785b4cf, 30s elapsed][0m[0m
+[0m[1maws_route_table.private["vpc-0f8d49fece7838519"]: Destruction complete after 2s[0m
+[0m[1maws_route_table.private["vpc-0ea0ec53556654812"]: Destruction complete after 2s[0m
+[0m[1maws_route_table.private["vpc-b6835ece"]: Destroying... [id=rtb-000bef62e0992738a][0m[0m
+[0m[1maws_route_table.private["vpc-021ddb54db13428b2"]: Destroying... [id=rtb-0b630a7cc78a24ee9][0m[0m
+[0m[1maws_route_table.private["vpc-b6835ece"]: Destruction complete after 2s[0m
+[0m[1maws_route_table.private["vpc-01264de7c037cbbe4"]: Destroying... [id=rtb-045b682eb989139ed][0m[0m
+[0m[1maws_route_table.private["vpc-021ddb54db13428b2"]: Destruction complete after 2s[0m
+[0m[1maws_route_table.private["vpc-08c176c702b4e8c82"]: Destroying... [id=rtb-00f92eed01a44fe5e][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Still destroying... [id=vpce-06cb176988b92425c, 30s elapsed][0m[0m
+[0m[1maws_route_table.private["vpc-01264de7c037cbbe4"]: Destruction complete after 2s[0m
+[0m[1maws_route_table.private["vpc-041a1132552c39c34"]: Destroying... [id=rtb-00371bb969ba07e2a][0m[0m
+[0m[1maws_route_table.private["vpc-08c176c702b4e8c82"]: Destruction complete after 2s[0m
+[0m[1maws_route_table.private["vpc-0729e0862e6c07fa3"]: Destroying... [id=rtb-0d70d1d9aa3d1e467][0m[0m
+[0m[1maws_route_table.private["vpc-041a1132552c39c34"]: Destruction complete after 2s[0m
+[0m[1maws_route_table.private["vpc-0729e0862e6c07fa3"]: Destruction complete after 2s[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Still destroying... [id=vpce-039bcf2cf213f8244, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0573535bf107b0fe8, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03b59cc863fe31390, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0e64054f83991ff48, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-05f409839b96af404, 10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-00dacd614cd89353c, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-050a2e62c6785b4cf, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Still destroying... [id=vpce-06cb176988b92425c, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Still destroying... [id=vpce-039bcf2cf213f8244, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0573535bf107b0fe8, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03b59cc863fe31390, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0e64054f83991ff48, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-05f409839b96af404, 20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-00dacd614cd89353c, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-050a2e62c6785b4cf, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Still destroying... [id=vpce-06cb176988b92425c, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Still destroying... [id=vpce-039bcf2cf213f8244, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0573535bf107b0fe8, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03b59cc863fe31390, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0e64054f83991ff48, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-05f409839b96af404, 30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-00dacd614cd89353c, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-050a2e62c6785b4cf, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Still destroying... [id=vpce-06cb176988b92425c, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Still destroying... [id=vpce-039bcf2cf213f8244, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0573535bf107b0fe8, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03b59cc863fe31390, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0e64054f83991ff48, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-05f409839b96af404, 40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"]: Still destroying... [id=vpce-00dacd614cd89353c, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-050a2e62c6785b4cf, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_api["vpc-0ea0ec53556654812"]: Destruction complete after 1m13s[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0f8d49fece7838519"]: Destruction complete after 1m13s[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Still destroying... [id=vpce-06cb176988b92425c, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Still destroying... [id=vpce-039bcf2cf213f8244, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0573535bf107b0fe8, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-03b59cc863fe31390, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0e64054f83991ff48, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-05f409839b96af404, 50s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-0729e0862e6c07fa3"]: Destruction complete after 1m13s[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Still destroying... [id=vpce-06cb176988b92425c, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ecr_dkr["vpc-b6835ece"]: Destruction complete after 1m23s[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Still destroying... [id=vpce-039bcf2cf213f8244, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0573535bf107b0fe8, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Still destroying... [id=vpce-0e64054f83991ff48, 1m20s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-05f409839b96af404, 1m0s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-041a1132552c39c34"]: Destruction complete after 1m25s[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Still destroying... [id=vpce-039bcf2cf213f8244, 1m30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0573535bf107b0fe8, 1m30s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"]: Still destroying... [id=vpce-05f409839b96af404, 1m10s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-b6835ece"]: Destruction complete after 1m35s[0m
+[0m[1maws_vpc_endpoint.ec2["vpc-0729e0862e6c07fa3"]: Destruction complete after 1m15s[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Still destroying... [id=vpce-0573535bf107b0fe8, 1m40s elapsed][0m[0m
+[0m[1maws_vpc_endpoint.lambda["vpc-0f8d49fece7838519"]: Destruction complete after 1m45s[0m
+[0m[1maws_security_group.endpoint["vpc-041a1132552c39c34"]: Destroying... [id=sg-0e5f2ef38beab0894][0m[0m
+[0m[1maws_security_group.endpoint["vpc-0729e0862e6c07fa3"]: Destroying... [id=sg-040bc932af53845e6][0m[0m
+[0m[1maws_security_group.endpoint["vpc-b6835ece"]: Destroying... [id=sg-052f4f34d45c74d20][0m[0m
+[0m[1maws_security_group.endpoint["vpc-0ea0ec53556654812"]: Destroying... [id=sg-0abee6d8091f1f738][0m[0m
+[0m[1maws_security_group.endpoint["vpc-0f8d49fece7838519"]: Destroying... [id=sg-0d01d7b66365fc2ee][0m[0m
+[0m[1maws_security_group.endpoint["vpc-021ddb54db13428b2"]: Destroying... [id=sg-0fe21508d595bd306][0m[0m
+[0m[1maws_security_group.endpoint["vpc-08c176c702b4e8c82"]: Destroying... [id=sg-09702e23fd9abcb1c][0m[0m
+[0m[1maws_security_group.endpoint["vpc-01264de7c037cbbe4"]: Destroying... [id=sg-0eb161a973eec8aab][0m[0m
+[0m[1maws_security_group.endpoint["vpc-021ddb54db13428b2"]: Destruction complete after 3s[0m
+[0m[1maws_security_group.endpoint["vpc-b6835ece"]: Destruction complete after 3s[0m
+[0m[1maws_security_group.endpoint["vpc-0f8d49fece7838519"]: Destruction complete after 3s[0m
+[0m[1maws_security_group.endpoint["vpc-08c176c702b4e8c82"]: Destruction complete after 3s[0m
+[0m[1maws_security_group.endpoint["vpc-01264de7c037cbbe4"]: Destruction complete after 3s[0m
+[0m[1maws_security_group.endpoint["vpc-0729e0862e6c07fa3"]: Destruction complete after 3s[0m
+[0m[1maws_security_group.endpoint["vpc-041a1132552c39c34"]: Destruction complete after 3s[0m
+[0m[1maws_security_group.endpoint["vpc-0ea0ec53556654812"]: Destruction complete after 3s[0m
+[0m[1m[32m
+Destroy complete! Resources: 48 destroyed.
+[0m

@@ -1,0 +1,7 @@
+module "alb-module" {
+  source = "./alb"
+}
+
+module "auto-scaling-module" {
+  source = "./auto_scaling"
+}
